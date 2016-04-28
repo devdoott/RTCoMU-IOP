@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "E:\\E book\\Android Projects\\RTCoMU\\crop\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\E book\\Android Projects\\RTCoMU\\crop\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 62,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "E:\\E book\\Android Projects\\RTCoMU\\crop\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 62,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 60,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "E:\\E book\\Android Projects\\RTCoMU\\crop\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 60,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 49,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\E book\\Android Projects\\RTCoMU\\crop\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 49,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 47,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "E:\\E book\\Android Projects\\RTCoMU\\crop\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 47,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 55,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "E:\\E book\\Android Projects\\RTCoMU\\crop\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 55,
+                        "endOffset": 707
+                    }
+                }
+            }
+        ]
+    }
+]
